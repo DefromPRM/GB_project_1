@@ -1,0 +1,2 @@
+# GIT Manual
+## Local repository
